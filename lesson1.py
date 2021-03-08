@@ -1,3 +1,3 @@
 print('Проверка Git')
 print('gtyuftretyfutyth')
-print
+print('Всё может быть')
